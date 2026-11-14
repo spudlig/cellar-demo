@@ -1,0 +1,1 @@
+{"name": "Cellar Lab (prototype)", "short_name": "Cellar Lab", "start_url": "./", "display": "standalone", "background_color": "#eef0ec", "theme_color": "#14181d", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
